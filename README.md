@@ -231,7 +231,8 @@ Last command should open file `./docs/node-ifconfig.me/<version>/index.html` (e.
 
 
 ## Release History ##
-
+* 1.0.4 first stable release.
+  -- Thu Apr 09 2020 21:30:45 GMT+0200 (GMT+02:00)
 * 0.9.0 README, doc and tests completed
   -- 2020-04-07T23:48:03.538Z
 * 0.2.6 added support for [pre-commit](https://github.com/observing/pre-commit).
@@ -246,7 +247,7 @@ Find **registrar** helpful? Become a [backer](https://opencollective.com/jguillo
 
 ## SPONSORS ##
 
-Use **registrar** at Work? Ask your manager or marketing team if they'd help [support](https://opencollective.com/jguillod#support) our project. Your company's logo will also be displayed on [npmjs.com](http://npmjs.com/package/@imed.ch/registrar-heir) and our [GitHub repository](https://github.com/jguillod/registrar#sponsors).
+Use **registrar** at Work? Feel free to be a one time sponsor. Thanks for using this module.
 
 [![click me](https://ko-fi.com/img/Kofi_Logo_Blue.svg)](https://ko-fi.com/elojes)
 

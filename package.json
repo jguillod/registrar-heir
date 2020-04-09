@@ -1,6 +1,6 @@
 {
 	"name": "@imed.ch/registrar-heir",
-	"version": "1.0.3",
+	"version": "1.0.4",
 	"description": "my NodeJS module template",
 	"main": "./lib/factory.js",
 	"scripts": {

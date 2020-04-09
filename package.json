@@ -1,6 +1,6 @@
 {
 	"name": "@imed.ch/registrar-heir",
-	"version": "1.0.4",
+	"version": "1.0.5",
 	"description": "my NodeJS module template",
 	"main": "./lib/factory.js",
 	"scripts": {
@@ -29,6 +29,12 @@
 	},
 	"homepage": "https://github.com/jguillod/registrar-heir#readme",
 	"devDependencies": {
+		"chai": "4.2.0",
+		"coveralls": "3.0.11",
+		"jsdoc": "3.6.4",
+		"minami": "1.2.3",
+		"mocha": "7.1.1",
+		"nyc": "15.0.1",
 		"pre-commit": "^1.2.2"
 	},
 	"pre-commit": [

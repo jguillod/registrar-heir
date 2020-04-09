@@ -187,7 +187,7 @@ npm test
 
 To generate documentation you should have some installed modules :
 
-(a) either **globally** allong side [with one of JSDoc template](https://github.com/jsdoc/jsdoc#templates)&nbsp;:
+### (a) either **globally** allong side [with one of JSDoc template](https://github.com/jsdoc/jsdoc#templates)&nbsp;:
 
 ```bash
 npm install -g jsdoc minami
@@ -214,7 +214,7 @@ where
     # => /usr/local/lib/node_modules
     ```
 
- (b) or as **local** module dev-dependencies&nbsp;
+ ### (b) or as **local** module dev-dependencies&nbsp;
  
     npm install --save-dev jsdoc minami
 

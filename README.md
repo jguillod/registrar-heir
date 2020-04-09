@@ -2,8 +2,7 @@
 [![NPM Version](https://img.shields.io/npm/v/@imed.ch/registrar-heir.svg)](https://npmjs.org/package/@imed.ch/registrar-heir)
 [![Dependency Status](https://david-dm.org/jguillod/registrar-heir.svg?style=flat)](https://david-dm.org/jguillod/registrar-heir)
 [![devDependency Status](https://img.shields.io/david/dev/jguillod/registrar-heir.svg?style=flat)](https://david-dm.org/jguillod/registrar-heir#info=devDependencies)
-[![Coverage Status](https://coveralls.io/repos/github/jguillod/registrar-heir/badge.svg?branch=master)](https://coveralls.io/github/jguillod/registrar-heir?branch=master)
-[![NPM](https://img.shields.io/github/license/jguillod/registrar-heir.svg)](LICENSE)
+[![Coverage Status](https://coveralls.io/repos/github/jguillod/registrar-heir/badge.svg?branch=master)](https://coveralls.io/github/jguillod/registrar-heir?branch=master)[![NPM](https://img.shields.io/github/license/jguillod/registrar-heir.svg)](LICENSE)
 
 
 # @imed.ch/registrar-heir #

@@ -1,0 +1,37 @@
+{
+	"name": "@imed.ch/registrar-heir",
+	"version": "1.0.3",
+	"description": "my NodeJS module template",
+	"main": "./lib/factory.js",
+	"scripts": {
+		"build": "npm test && npm run generate-docs",
+		"docs": "npm run generate-docs && npm run show-docs",
+		"generate-docs": "jsdoc --configure jsdoc.json --verbose",
+		"show-docs": "node docs/index",
+		"coverage": "nyc report --reporter=text-lcov | coveralls",
+		"test": "nyc mocha"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/jguillod/registrar-heir.git"
+	},
+	"keywords": [
+		"template",
+		"nodejs"
+	],
+	"author": {
+		"name": "Joël F Guillod",
+		"url": "http://imed.ch"
+	},
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/jguillod/registrar-heir/issues"
+	},
+	"homepage": "https://github.com/jguillod/registrar-heir#readme",
+	"devDependencies": {
+		"pre-commit": "^1.2.2"
+	},
+	"pre-commit": [
+		"test"
+	]
+}
